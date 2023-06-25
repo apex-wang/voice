@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/mtChatroomGifts"
+        style="?attr/voice_room_notice_style"
+        android:layout_marginStart="12dp"
+        android:drawableStart="@drawable/voice_icon_star"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="2000" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/mtChatroomWatch"
+        style="?attr/voice_room_notice_style"
+        android:layout_marginStart="5dp"
+        android:drawableStart="@drawable/voice_icon_star"
+        app:layout_constraintBottom_toBottomOf="@+id/mtChatroomGifts"
+        app:layout_constraintStart_toEndOf="@+id/mtChatroomGifts"
+        app:layout_constraintTop_toTopOf="@+id/mtChatroomGifts"
+        tools:text="1000" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/mtChatroomNotice"
+        style="?attr/voice_room_notice_style"
+        android:layout_marginStart="5dp"
+        android:drawableStart="@drawable/voice_icon_star"
+        android:drawableEnd="@drawable/voice_icon_room_notice_arrow_right"
+        android:text="@string/voice_chatroom_notice"
+        app:layout_constraintBottom_toBottomOf="@+id/mtChatroomGifts"
+        app:layout_constraintStart_toEndOf="@+id/mtChatroomWatch"
+        app:layout_constraintTop_toTopOf="@+id/mtChatroomGifts"
+        tools:text="Notice" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

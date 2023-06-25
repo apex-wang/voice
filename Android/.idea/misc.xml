@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app-voice/src/main/java/io/agora/app/voice/kit/res/layout/room_list_item.xml" value="0.2328125" />
+        <entry key="app-voice/src/main/java/io/agora/app/voice/kit/res/layout/test_layout.xml" value="0.2328125" />
+        <entry key="app-voice/src/main/java/io/agora/app/voice/kit/res/layout/testlayout.xml" value="0.21875" />
+        <entry key="app-voice/src/main/java/io/agora/app/voice/kit/res/layout/voice_room_activity.xml" value="0.22371364653243847" />
+        <entry key="app-voice/src/main/java/io/agora/app/voice/kit/res/layout/voice_room_list_activity.xml" value="0.21875" />
+        <entry key="app-voice/src/main/res/layout/layout_main.xml" value="0.23177083333333334" />
+        <entry key="app-voice/src/main/res/layout/test_layout.xml" value="0.2328125" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res-voice/drawable/voice_bg_app_def_dark.xml" value="0.107" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res-voice/drawable/voice_dialog_bg.xml" value="0.1175" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/drawable/default_room_bg.xml" value="0.1205" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/drawable/default_voice_room_bg.xml" value="0.1205" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/drawable/room_list_item_bg.xml" value="0.1205" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/drawable/voice_bg_member_item_action.xml" value="0.125" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/drawable/voice_bg_more_item_gradient.xml" value="0.125" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/drawable/voice_bg_rect_radius13_black20.xml" value="0.1175" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/drawable/voice_bg_rect_top_radius20_gradient_white.xml" value="0.125" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/drawable/voice_bg_rect_top_radius20_white.xml" value="0.125" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/drawable/voice_drawable_tab_indicator.xml" value="0.125" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/drawable/voice_member_item_action_bg.xml" value="0.125" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/layout/voice_fragment_apply_list.xml" value="0.2328125" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/layout/voice_fragment_audience_list.xml" value="0.2328125" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/layout/voice_fragment_invited_list.xml" value="0.25794677734375004" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/layout/voice_item_room_apply_list.xml" value="0.2328125" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/layout/voice_item_room_audience_list.xml" value="0.2328125" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/layout/voice_item_room_invited_list.xml" value="0.2328125" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/layout/voice_notice_layout.xml" value="0.23177083333333334" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/layout/voice_room_apply_layout.xml" value="0.2328125" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/layout/voice_room_hand_layout.xml" value="0.2328125" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/layout/voice_room_invited_layout.xml" value="0.2328125" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/layout/voice_room_more_item_layout.xml" value="0.654510498046875" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/layout/voice_room_more_layout.xml" value="0.2328125" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/layout/voice_room_rank_layout.xml" value="0.2328125" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/layout/voice_room_view.xml" value="0.2328125" />
+        <entry key="asceneskit/src/main/java/io/agora/asceneskit/voice/res/layout/voice_view_room_rank_tab_item.xml" value="0.2328125" />
+        <entry key="asceneskit/src/main/res/layout/layout.xml" value="0.21875" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/barrage/res/drawable/voice_bg_barrage_shape.xml" value="0.1175" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/barrage/res/drawable/voice_bg_barrage_system_shape.xml" value="0.1175" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/barrage/res/drawable/voice_subtitle_bg.xml" value="0.1175" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/barrage/res/layout/voice_barrage_layout.xml" value="0.23177083333333334" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/barrage/res/layout/voice_subtitle_layout.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/barrage/res/layout/voice_widget_barrage_msgs_item.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/barrage/res/layout/voice_widget_barrage_system_msgs_item.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/basic/res/layout/aui_alert_dialog.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/basic/res/layout/aui_bottom_dialog_item.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/basic/res/layout/aui_bottom_dialog_layout.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/gift/res/drawable/voice_bg_gift_item.xml" value="0.1245" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/gift/res/drawable/voice_bg_gift_r20_white.xml" value="0.1175" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/gift/res/drawable/voice_bg_gift_selected_shape.xml" value="0.1245" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/gift/res/drawable/voice_bg_gift_top_icon.xml" value="0.1175" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/gift/res/drawable/voice_bg_gift_top_layout.xml" value="0.1175" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/gift/res/drawable/voice_bg_tablayout_tag.xml" value="0.1245" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/gift/res/drawable/voice_bg_widget_gift.xml" value="0.1175" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/gift/res/layout/chatroom_create_tab_item_layout.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/gift/res/layout/voice_dialog_gift_layout.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/gift/res/layout/voice_fragment_gift_list_layout.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/gift/res/layout/voice_item_gift_list_layout.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/gift/res/layout/voice_widget_gift_item.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/gift/res/layout/voice_widget_gift_layout.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/jukebox/res/drawable/aui_jukebox_divider.xml" value="0.16" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/jukebox/res/drawable/aui_jukebox_tab_bg.xml" value="0.168" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/jukebox/res/drawable/aui_jukebox_tab_indicator.xml" value="0.1435" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/jukebox/res/drawable/aui_jukebox_tab_layout_bg.xml" value="0.139" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/jukebox/res/layout/aui_jukebox_choose_view.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/jukebox/res/layout/aui_jukebox_chosen_item.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/likeView/res/layout/voice_widget_gift_periscope.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/member/res/drawable/drawable.xml" value="0.125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/member/res/drawable/voice_bg_member_item_action.xml" value="0.125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/member/res/layout/aui_member_list_item.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/member/res/layout/aui_member_list_view_layout.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/micseats/res/layout/aui_micseat_dialog_view.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/micseats/res/layout/aui_micseat_frame_layout.xml" value="0.11322188449848024" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/micseats/res/layout/aui_micseat_frg_layout.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/micseats/res/layout/aui_micseat_item_view.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/micseats/res/layout/aui_micseats_view.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/musicplayer/res/layout/aui_musicplayer_view.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/musicplayer/res/layout/aui_room_top_left_information_layout.xml" value="0.23177083333333334" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/primary/res/drawable/voice_bg_primary_hand_status.xml" value="0.125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/primary/res/drawable/voice_bg_primary_menu_item_icon.xml" value="0.1175" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/primary/res/drawable/voice_bg_room_bottom.xml" value="0.1175" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/primary/res/layout/layout.xml" value="0.23177083333333334" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/primary/res/layout/voice_widget_expression_gridview.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/primary/res/layout/voice_widget_primary_menu_layout.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/primary/res/layout/voice_widget_row_expression.xml" value="0.23177083333333334" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/roomTopInformation/res/drawable/aui_upper_left_bg.xml" value="0.168" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/roomTopInformation/res/drawable/aui_upper_right_count_bg.xml" value="0.1435" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/roomTopInformation/res/drawable/aui_upper_right_icon_bg.xml" value="0.16" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/roomTopInformation/res/drawable/aui_upper_right_item_bg.xml" value="0.1435" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/roomTopInformation/res/layout/aui_upper_left_information_layout.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/roomTopInformation/res/layout/aui_upper_right_information_layout.xml" value="0.4277162082289492" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/roomTopInformation/res/layout/aui_upper_top_information_layout.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/topInformation/res/drawable/aui_upper_right_count_bg.xml" value="0.1175" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/topInformation/res/drawable/aui_upper_right_icon_bg.xml" value="0.1175" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/topInformation/res/drawable/aui_upper_right_item_bg.xml" value="0.1175" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/topInformation/res/layout/aui_upper_left_information_layout.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/topInformation/res/layout/aui_upper_right_information_layout.xml" value="0.2328125" />
+        <entry key="auikit/src/main/java/io/agora/auikit/ui/topInformation/res/layout/aui_upper_top_information_layout.xml" value="0.2328125" />
+        <entry key="auikit/src/main/res/drawable/ad.xml" value="0.1175" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.23177083333333334" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
